@@ -1,4 +1,25 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://mmellet.github.io/fra3826_2021/"
+title = "FRA3826 / EDN6001 "
 theme = "book"
+
+
+[params]
+  BookMenuBundle = "/menu"
+  BookTheme = "light"
+
+
+[outputFormats]
+  [outputFormats.print]
+    mediaType = "text/html" # normal
+    rel = "print" # rapport
+    baseName = "print" # /print dans l'URL
+
+[permalinks]
+  pages = "/:filename"
+
+[markup]
+  [markup.goldmark]
+    typographer = true
+    [markup.goldmark.renderer]
+     footnoteReturnLinkContents = "&uarr;"
+      unsafe = true
