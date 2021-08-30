@@ -8,10 +8,10 @@ title: Séance 1
 
 ## Présentation du cours
 
-<iframe src="/slides/Seance-1-1.html" title="description"  height="500" width="800" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mmellet.github.io/fra3826_2021/slides/Seance-1-1.html" title="description"  height="500" width="800" allowfullscreen="allowfullscreen"></iframe>
 
 <div style="text-align:center">
-<a href="/slides/Seance-1-1.html" target="_blank">ouvrir dans mon navigateur</a>
+<a href="https://mmellet.github.io/fra3826_2021/slides/Seance-1-1.html" target="_blank">ouvrir dans mon navigateur</a>
 </div>
 
 ## Présentation du calendrier
