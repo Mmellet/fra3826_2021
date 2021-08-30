@@ -37,5 +37,5 @@ title: Séance 1
 <iframe src="https://mmellet.github.io/fra3826_2021/slides/Seance-1-4.html" title="description" height="500" width="800" ></iframe>
 
 <div style="text-align:center">
-<a href="https://mmellet.github.io/fra3826_2021/slides/Seance-1-5.html" target="_blank">ouvrir dans mon navigateur</a>
+<a href="https://mmellet.github.io/fra3826_2021/slides/Seance-1-4.html" target="_blank">ouvrir dans mon navigateur</a>
 </div>
