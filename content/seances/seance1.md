@@ -8,18 +8,18 @@ title: Séance 1
 
 ## Présentation du cours
 
-<iframe src="fra3826_2021/slides/Seance-1-1.html" title="description"  height="500" width="800" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="/slides/Seance-1-1.html" title="description"  height="500" width="800" allowfullscreen="allowfullscreen"></iframe>
 
 <div style="text-align:center">
-<a href="fra3826_2021/slides/Seance-1-1.html" target="_blank">ouvrir dans mon navigateur</a>
+<a href="/slides/Seance-1-1.html" target="_blank">ouvrir dans mon navigateur</a>
 </div>
 
 ## Présentation du calendrier
 
-<iframe src="fra3826_2021/static/slides/Seance-1-2.html" title="description" height="500" width="800" ></iframe>
+<iframe src="/slides/Seance-1-2.html" title="description" height="500" width="800" ></iframe>
 
 <div style="text-align:center">
-<a href="fra3826_2021/static/slides/Seance-1-2.html" target="_blank">ouvrir dans mon navigateur</a>
+<a href="/slides/Seance-1-2.html" target="_blank">ouvrir dans mon navigateur</a>
 </div>
 
 
