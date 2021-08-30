@@ -16,10 +16,10 @@ title: Séance 1
 
 ## Présentation du calendrier
 
-<iframe src="/slides/Seance-1-2.html" title="description" height="500" width="800" ></iframe>
+<iframe src="Seance-1-2.html" title="description" height="500" width="800" ></iframe>
 
 <div style="text-align:center">
-<a href="/slides/Seance-1-2.html" target="_blank">ouvrir dans mon navigateur</a>
+<a href="Seance-1-2.html" target="_blank">ouvrir dans mon navigateur</a>
 </div>
 
 
