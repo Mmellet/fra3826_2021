@@ -8,7 +8,7 @@ Bienvenue sur le site du cours FRA3826/EDN6001 - Théories de l'édition numéri
 
 Cet espace rassemble les différents éléments du cours : 
 
-- le [contenu des séances](fra3826_2021/seances)
+- le [contenu des séances](seances)
 - les [ressources documentaires](documentation)
 - les [références bibliographiques](/bibliographie) utilisées pour le cours
 - mes [contacts](contact)
