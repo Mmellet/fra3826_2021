@@ -16,26 +16,26 @@ title: Séance 1
 
 ## Présentation du calendrier
 
-<iframe src="Seance-1-2.html" title="description" height="500" width="800" ></iframe>
+<iframe src="https://mmellet.github.io/fra3826_2021/slides/Seance-1-2.html" title="description" height="500" width="800" ></iframe>
 
 <div style="text-align:center">
-<a href="Seance-1-2.html" target="_blank">ouvrir dans mon navigateur</a>
+<a href="https://mmellet.github.io/fra3826_2021/slides/Seance-1-2.html" target="_blank">ouvrir dans mon navigateur</a>
 </div>
 
 
 ## Présentation des modalités d'évaluation
 
-<iframe src="/slides/Seance-1-3.html" title="description" height="500" width="800" ></iframe>
+<iframe src="https://mmellet.github.io/fra3826_2021/slides/Seance-1-3.html" title="description" height="500" width="800" ></iframe>
 
 <div style="text-align:center">
-<a href="/slides/Seance-1-3.html" target="_blank">ouvrir dans mon navigateur</a>
+<a href="https://mmellet.github.io/fra3826_2021/slides/Seance-1-3.html" target="_blank">ouvrir dans mon navigateur</a>
 </div>
 
 
 ## Présentation des ressources documentaires & outils
 
-<iframe src="/slides/Seance-1-4.html" title="description" height="500" width="800" ></iframe>
+<iframe src="https://mmellet.github.io/fra3826_2021/slides/Seance-1-4.html" title="description" height="500" width="800" ></iframe>
 
 <div style="text-align:center">
-<a href="/slides/Seance-1-4.html" target="_blank">ouvrir dans mon navigateur</a>
+<a href="https://mmellet.github.io/fra3826_2021/slides/Seance-1-5.html" target="_blank">ouvrir dans mon navigateur</a>
 </div>
