@@ -16,6 +16,7 @@ theme = "book"
 
 [permalinks]
   pages = "/:filename"
+  docs = "/seances/:title"
 
 [markup]
   [markup.goldmark]
