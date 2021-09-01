@@ -11,6 +11,7 @@ Le cours se déroule officiellement le vendredi de 8h30 à 11h29.
 Cet espace rassemble les différents éléments du cours : 
 
 - le [contenu des séances](seances)
+- les [modalités d'évaluation](modalites)
 - les [ressources documentaires](documentation)
 - les [références bibliographiques](https://www.zotero.org/groups/4276254/fra3826-a2021/library) utilisées pour le cours
 - mes [contacts](contact)
