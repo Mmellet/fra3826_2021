@@ -75,6 +75,16 @@
 {{ define "main" }}
   <article class="markdown">
     {{- .Content -}}
+
+
+    {{ if eq .Params.doc "oui" }}
+    <section>
+        {{ range  where .Site.RegularPages "Section" "meds"  }}
+            <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
+            <time datetime="{{ dateFormat "2006-01" .Date }}">{{ dateFormat "2006-01" .Date }}</time>
+        {{ end }}
+      </section>
+        {{ end }}
   </article>
 {{ end }}
 
