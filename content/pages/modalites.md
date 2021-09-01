@@ -2,6 +2,10 @@
 title: Modalités d'évaluation
 ---
 
+# Modalités d'évaluation
+
+*Les modalités d'évaluation sont également disponibles dans la présentation du cours d'introduction [ici](https://mmellet.github.io/fra3826_2021/seances/seance1/#pr%c3%a9sentation-des-modalit%c3%a9s-d%c3%a9valuation).*
+
 - Présence = 10 %
 - [Participation orale/écrite](https://mmellet.github.io/fra3826_2021/modalites/#participation) = 20 %
 - [Examen de mi-session](https://mmellet.github.io/fra3826_2021/modalites/#examen-de-mi-session) = 30 %
@@ -9,7 +13,7 @@ title: Modalités d'évaluation
 
 ## Participation 
 
-- Prise de note collaborative avec [Hedgedoc] en [Markdown]
+- Prise de note collaborative avec [Hedgedoc](https://mmellet.github.io/fra3826_2021/documentation/hedgedoc) en [Markdown](https://mmellet.github.io/fra3826_2021/documentation/markdown)
 - Lecture hebdomadaire [voir calendrier](https://mmellet.github.io/fra3826_2021/seances/seance1/#pr%c3%a9sentation-du-calendrier) : 
   - annotation avec [Hypothesis](https://mmellet.github.io/fra3826_2021/documentation/#hypothesis) & discussion
 
@@ -24,4 +28,3 @@ title: Modalités d'évaluation
   - proposition (10 %) à éditer avec [Stylo](https://mmellet.github.io/fra3826_2021/documentation/#stylo)
   - poster + état de l'art **pour et seulement pour** les DESS
 
-Les modalités d'évaluation sont également disponibles dans la présentation du cours d'introduction [ici](https://mmellet.github.io/fra3826_2021/seances/seance1/#pr%c3%a9sentation-des-modalit%c3%a9s-d%c3%a9valuation).

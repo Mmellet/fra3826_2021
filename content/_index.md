@@ -2,7 +2,7 @@
 
 
 
-
+<img src="https://mmellet.github.io/fra3826_2021/slides/img1/hyper.webp" width="8%" align="left"/>
 
 Bienvenue sur le site du cours FRA3826/EDN6001 - Théories de l'édition numérique. 
 
