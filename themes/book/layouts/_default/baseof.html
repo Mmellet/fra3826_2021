@@ -79,7 +79,7 @@
 
     {{ if eq .Params.doc "oui" }}
     <section>
-        {{ range  where .Site.RegularPages "Section" "meds"  }}
+        {{ range  where .Site.RegularPages "Section" "seances"  }}
             <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
             <time datetime="{{ dateFormat "2006-01" .Date }}">{{ dateFormat "2006-01" .Date }}</time>
         {{ end }}
