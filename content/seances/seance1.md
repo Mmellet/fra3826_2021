@@ -1,7 +1,7 @@
 --- 
 title: "Séance 1"
 date: 2021-09-02
-
+doc: "oui"
 ---
 
 # Séance du 3 septembre
