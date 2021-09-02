@@ -1,6 +1,6 @@
 --- 
 title: "Séance 1"
-date: 2021-09-03
+date: 2021-09-02
 ---
 
 # Séance du 3 septembre
