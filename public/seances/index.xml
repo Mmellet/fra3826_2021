@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seances on FRA3826   EDN6001</title>
+    <link>/seances/</link>
+    <description>Recent content in Seances on FRA3826   EDN6001</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/seances/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Séance 1</title>
+      <link>/seances/seance1/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/seances/seance1/</guid>
+      <description>Séance du 3 septembre Bibliographie liée
+Présentation du cours  ouvrir dans mon navigateur  Présentation du calendrier  ouvrir dans mon navigateur  Présentation des modalités d&#39;évaluation  ouvrir dans mon navigateur  Présentation des ressources documentaires &amp;amp; outils  ouvrir dans mon navigateur  </description>
+    </item>
+    
+  </channel>
+</rss>
