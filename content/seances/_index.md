@@ -1,5 +1,5 @@
 ---
-title: "Seances"
+title: "Séances"
 doc: "oui"
 ---
 
