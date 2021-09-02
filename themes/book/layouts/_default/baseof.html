@@ -80,8 +80,8 @@
     {{ if eq .Params.doc "oui" }}
     <section>
         {{ range  where .Site.RegularPages "Section" "seances"  }}
-            <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
-            <time datetime="{{ dateFormat "2006-01" .Date }}">{{ dateFormat "2006-01" .Date }}</time>
+        <span><h3></h3><time datetime="{{ dateFormat "2006-01" .Date }}">{{ dateFormat "2006-01-02" .Date }} </time><a href="{{ .Permalink }}">{{ .Title }}</h3></a>
+</span>
         {{ end }}
       </section>
         {{ end }}
