@@ -27,7 +27,7 @@
       {{ if eq .Params.doc "oui" }}
 <section>
     {{ range  where .Site.RegularPages "Section" "seances"  }}
-    <span><h3></h3><time datetime="{{ dateFormat "2006-01" .Date }}">{{ dateFormat "2006-01-02" .Date }} </time><a href="{{ .Permalink }}">{{ .Title }}</h3></a>
+    <span><h3><time datetime="{{ dateFormat "2006-01" .Date }}">{{ dateFormat "2006-01-02" .Date }} </time><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
     </span>  {{ end }}
   </section>
     {{ end }}
