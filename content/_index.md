@@ -1,7 +1,5 @@
 
-
-
-Bienvenue sur le site du cours **FRA3826/EDN6001 - Théories de l'édition numérique**. 
+Bienvenue sur le site du cours **FRA3826|EDN6001 - Théories de l'édition numérique**. 
 
 Le cours se déroule officiellement le vendredi de 8h30 à 11h29. 
 
