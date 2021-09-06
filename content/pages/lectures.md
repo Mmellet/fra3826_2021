@@ -11,7 +11,7 @@ title: Lectures
 - <a href="https://via.hypothes.is/https://www.cairn.info/revue-les-cahiers-de-mediologie-1998-2-page-137.htm">L'image du texte pour une théorie de l'énonciation éditoriale (Souchier 1998)</a>
 
 **Bug de CAPTCHA** : si vous ne parvenez pas à ouvrir l'article pour l'annoter, lisez-le [ici](https://www.cairn.info/revue-les-cahiers-de-mediologie-1998-2-page-137.htm) en prenant en note vos commentaires, remarques, questions. 
-
+ 
 ### Séance 3
 
 - <a href="https://via.hypothes.is/http://www.parcoursnumeriques-pum.ca/pour-une-definition-du-numerique">Pour une définition du "numérique" (Vitali-Rosati 2014)</a>
