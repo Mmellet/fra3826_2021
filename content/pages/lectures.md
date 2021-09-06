@@ -8,7 +8,7 @@ title: Lectures
 
 ### Séance 2 
 
-- <a href="https://via.hypothes.is/https://www.cairn.info/revue-les-cahiers-de-mediologie-1998-2-page-137.htm">L'image du texte pour une théorie de l'énonciation éditoriale (Souchier 1998)</a>
+- <a href="https://via.hypothes.is/https://mmellet.github.io/fra3826_2021/lecture/Lecture1.pdf">L'image du texte pour une théorie de l'énonciation éditoriale (Souchier 1998)</a>
 
 ### Séance 3
 
