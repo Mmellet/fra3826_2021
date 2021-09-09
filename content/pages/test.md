@@ -1,1 +1,1 @@
-[lecture](https://mmellet.github.io/fra3826_2021/lecture/Lecture1.pdf)
+[lecture](https://via.hypothes.is/https://mmellet.github.io/fra3826_2021/lecture/Lecture1.pdf)
