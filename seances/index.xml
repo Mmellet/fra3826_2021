@@ -5,7 +5,17 @@
     <link>/seances/</link>
     <description>Recent content in Séances on FRA3826   EDN6001</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/seances/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/seances/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Séance 3</title>
+      <link>/seances/seance3/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/seances/seance3/</guid>
+      <description>Séance du 17 septembre #  Bibliographie liée
+Qu&amp;rsquo;est ce que l&amp;rsquo;édition numérique ? (volet I) #   ouvrir dans mon navigateur </description>
+    </item>
+    
     <item>
       <title>Séance 2</title>
       <link>/seances/seance2/</link>
