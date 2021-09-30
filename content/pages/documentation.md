@@ -123,8 +123,10 @@ Voici mon texte[^1]
 
 
 ## Stylo 
-(à venir)
 
+- [Documentation officielle](http://stylo-doc.ecrituresnumeriques.ca/fr_FR/#!index.md)
+
+<iframe src="https://ia803205.us.archive.org/13/items/stylo-doc-fr/StyloDocFR.mp4" target="blank">Vidéo de démonstration</iframe>
 -------------------------
 
 -------------------------

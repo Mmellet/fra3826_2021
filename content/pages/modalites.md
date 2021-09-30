@@ -20,7 +20,13 @@ title: Modalités d'évaluation
 
 ## Examen de mi-session 
 
-- Compte-rendu critique d'un article de la [liste](à venir) avec [Stylo](https://mmellet.github.io/fra3826_2021/documentation/#stylo)
+- Compte-rendu critique d'un article de la [liste](https://stylo.huma-num.fr/article/61560875b198410019642abd/preview) avec [Stylo](https://mmellet.github.io/fra3826_2021/documentation/#stylo)
+
+<iframe src="https://mmellet.github.io/fra3826_2021/slides/CompteRendu.html" title="description"  height="500" width="800" allowfullscreen="allowfullscreen"></iframe>
+
+<div style="text-align:center">
+<a href="https://mmellet.github.io/fra3826_2021/slides/CompteRendu.html" target="_blank">ouvrir dans mon navigateur</a>
+</div>
 
 ## Examen final 
 

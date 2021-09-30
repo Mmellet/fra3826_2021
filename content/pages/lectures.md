@@ -31,6 +31,7 @@ Une fois installée, vous aurez à cliquer sur l'article dans chrome : https://w
 - <a href="https://via.hypothes.is/https://www.cairn.info/revue-communication-et-langages1-2017-1-page-129.htm">L'écriture numérique ou l'écriture selon les machines (Petit, Bouchardon 2017)</a>
 
 ### Séance 6 
+*pas d'annotation* 
 
 - <a href="https://www.canal-u.tv/video/meshs/elena_pierazzo_a_propos_des_digital_humanities.14935">Pierazzo à propos des Digital Humanities</a>
 
