@@ -37,5 +37,7 @@ Une fois installée, vous aurez à cliquer sur l'article dans chrome : https://w
 
 ### Séance 7 
 
-- <a href="https://via.hypothes.is/https://www.cairn.info/revue-communication-et-langages1-2011-1-page-3.htm">Un humanisme numérique (Doueihi 2011)</a>
+- <a href="https://via.hypothes.is/https://books.openedition.org/pum/312?lang=fr">Chapitre 1. La fonction éditoriale et ses défis
+Patrick Poirier et Pascal Genêt </a>
+
 

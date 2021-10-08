@@ -18,7 +18,12 @@ La page de documentation référence les ressources utiles au cours dont des vid
 
 
 ## Zotero 
-(à venir)
+
+<iframe src="https://mmellet.github.io/fra3826_2021/slides/CompteRendu.html" title="description" height="500" width="800" ></iframe>
+
+<div style="text-align:center">
+<a href="https://mmellet.github.io/fra3826_2021/slides/CompteRendu.html" target="_blank">ouvrir dans mon navigateur</a>
+</div>
 
 -------------------------
 -------------------------
@@ -59,7 +64,7 @@ Cet espace n'est pas éditable mais permet un rendu type web.
 Afin de suivre en simultané le rendu de votre édition vous pouvez choisir la double configuration. 
 
 
-### Index des notes collaboratives
+### [Index des notes collaboratives](https://demo.hedgedoc.org/sl_ISH8hSDSCQ9TUQEDzQg?both)
 
 L'index pour les prises de notes collaboratives se trouve [ici](https://demo.hedgedoc.org/sl_ISH8hSDSCQ9TUQEDzQg#).
 
