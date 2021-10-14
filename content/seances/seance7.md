@@ -3,7 +3,7 @@ title: "Séance 7"
 date: 2021-10-15
 ---
 
-# Séance du 8 octobre
+# Séance du 15 octobre
 
 [Bibliographie liée](https://www.zotero.org/groups/4276254/fra3826-a2021/collections/GPVKZVNA)
 
