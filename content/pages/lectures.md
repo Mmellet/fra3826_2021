@@ -40,4 +40,8 @@ Une fois installée, vous aurez à cliquer sur l'article dans chrome : https://w
 - <a href="https://via.hypothes.is/https://books.openedition.org/pum/312?lang=fr">Chapitre 1. La fonction éditoriale et ses défis
 Patrick Poirier et Pascal Genêt </a>
 
+### Séance 8
+
+- <a href="https://via.hypothes.is/http://owncloud.ecrituresnumeriques.ca/index.php/s/98U54NjVLrG39ye">L'accès libre, Olivier Charbonneau (2010)</a>
+
 
