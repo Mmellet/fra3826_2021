@@ -42,6 +42,6 @@ Patrick Poirier et Pascal Genêt </a>
 
 ### Séance 8
 
-- <a href="https://via.hypothes.is/http://owncloud.ecrituresnumeriques.ca/index.php/s/98U54NjVLrG39ye">L'accès libre, Olivier Charbonneau (2010)</a>
+- <a href="https://via.hypothes.is/http://owncloud.ecrituresnumeriques.ca/index.php/s/98U54NjVLrG39ye" target="blank">L'accès libre, Olivier Charbonneau (2010)</a>
 
 
