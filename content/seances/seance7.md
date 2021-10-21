@@ -7,7 +7,7 @@ date: 2021-10-15
 
 [Bibliographie liée](https://www.zotero.org/groups/4276254/fra3826-a2021/collections/GPVKZVNA)
 
-[Prise de note collaborative](https://demo.hedgedoc.org/o79gPgmMQ_KlXDKSoIQ1_A#))
+[Prise de note collaborative](https://demo.hedgedoc.org/o79gPgmMQ_KlXDKSoIQ1_A#)
 
 ## Lexique d'édition
 
@@ -38,5 +38,5 @@ date: 2021-10-15
 
 À annoter pour la séance prochaine : 
 
-- <a href="https://via.hypothes.is/http://owncloud.ecrituresnumeriques.ca/index.php/s/98U54NjVLrG39ye">L'accès libre, Olivier Charbonneau (2010)</a>
+- <a href="https://via.hypothes.is/https://mmellet.github.io/fra3826_2021/lecture/Lecture8.pdf">L'accès libre, Olivier Charbonneau (2010)</a>
 
