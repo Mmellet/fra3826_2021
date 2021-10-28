@@ -44,4 +44,23 @@ Patrick Poirier et Pascal Genêt </a>
 
 - <a href="https://via.hypothes.is/https://mmellet.github.io/fra3826_2021/lecture/Lecture8.pdf" target="blank">L'accès libre, Olivier Charbonneau (2010)</a>
 
+### Séance 9
 
+- <a href="https://via.hypothes.is/http://www.parcoursnumeriques-pum.ca/Les-formats" target="blank">Les formats, Viviane Boulétreau & Benoît Habert (2014)</a>
+
+### Séance 10
+
+- <a href="https://via.hypothes.is/https://www.cairn.info/revue-carrefours-de-l-education-2004-1-page-42.htm" target="blank"> La disparition des filles dans les études d'informatique : les conséquences d'un changement de représentation, Isabelle Collet (2004)</a>
+
+### Séance 11
+
+- <a href="https://via.hypothes.is/https://www.cairn.info/revue-communication-et-langages-2020-3-page-5.htm?contenu=article" target="blank">La littérature numérique n’existe pas, Servanne Monjour (2020)</a>
+
+
+### Séance 12
+
+- <a href="https://via.hypothes.is/https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/18302/lEcrivainDeProfil.pdf?sequence=1&isAllowed=y" target="blank">L’écrivain de profil(s)... Facebook, Servanne Monjour (2017)</a>
+
+### Séance 13
+
+- <a href="https://via.hypothes.is/http://www.parcoursnumeriques-pum.ca/Les-formats" target="blank">Les formats, Viviane Boulétreau & Benoît Habert (2014)</a>
