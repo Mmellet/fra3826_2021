@@ -28,6 +28,17 @@ title: Modalités d'évaluation
 <a href="https://mmellet.github.io/fra3826_2021/slides/CompteRendu.html" target="_blank">ouvrir dans mon navigateur</a>
 </div>
 
+**Pour le bug de bibliographie qui n'apparaît pas dans le PDF** : il vous faut coller dans le tout début de votre article ceci : 
+
+```
+
+---
+nocite: '@*'
+
+---
+
+```
+
 ## Examen final 
 
 - Poster d'un projet d'édition numérique sur [Wikipédia](https://mmellet.github.io/fra3826_2021/documentation/#wikip%c3%a9dia)
