@@ -63,4 +63,4 @@ Patrick Poirier et Pascal Genêt </a>
 
 ### Séance 13
 
-- <a href="https://via.hypothes.is/http://www.parcoursnumeriques-pum.ca/Les-formats" target="blank">Les formats, Viviane Boulétreau & Benoît Habert (2014)</a>
+
