@@ -137,6 +137,14 @@ Voici mon texte[^1]
 -------------------------
 
 
-## Wikipédia 
-(à venir)
+## Wikipédia/Wikiversité
+
+<iframe src="https://mmellet.github.io/fra3826_2021/slides/Wikiversite.html" title="description" height="500" width="800" ></iframe>
+
+<div style="text-align:center">
+<a href="https://mmellet.github.io/fra3826_2021/slides/Wikiversite.html" target="_blank">ouvrir dans mon navigateur</a>
+</div>
+
+-------------------------
+-------------------------
 
