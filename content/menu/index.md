@@ -11,6 +11,7 @@ headless: true
   - **[Séance 6]({{< relref "/seances/seance6" >}})** 
   - **[Séance 7]({{< relref "/seances/seance7" >}})**
   - **[Séance 8]({{< relref "/seances/seance8" >}})**
+  - **[Séance 9]({{< relref "/seances/seance9" >}})**
 - **[Lectures hebdomadaires]({{< relref "/lectures" >}})**
 - **[Modalités]({{< relref "/modalites" >}})**
 - **[Documentation]({{< relref "/documentation" >}})**
