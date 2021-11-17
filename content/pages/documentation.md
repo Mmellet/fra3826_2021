@@ -148,3 +148,15 @@ Voici mon texte[^1]
 -------------------------
 -------------------------
 
+
+
+## StoryMap JS & Knightlab
+
+<iframe src="https://mmellet.github.io/fra3826_2021/slides/StoryMap.html" title="description" height="500" width="800" ></iframe>
+
+<div style="text-align:center">
+<a href="https://mmellet.github.io/fra3826_2021/slides/StoryMap.html" target="_blank">ouvrir dans mon navigateur</a>
+</div>
+
+-------------------------
+-------------------------
