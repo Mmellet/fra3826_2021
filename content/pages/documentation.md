@@ -160,3 +160,8 @@ Voici mon texte[^1]
 
 -------------------------
 -------------------------
+
+## Autres outils 
+
+- [Coko](https://coko.foundation/)
+- [HumaNum](https://www.huma-num.fr/)
