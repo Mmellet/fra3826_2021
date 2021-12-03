@@ -61,6 +61,6 @@ Patrick Poirier et Pascal Genêt </a>
 
 - <a href="https://via.hypothes.is/https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/18302/lEcrivainDeProfil.pdf?sequence=1&isAllowed=y" target="blank">L’écrivain de profil(s)... Facebook, Servanne Monjour (2017)</a>
 
-### Séance 13
+
 
 
