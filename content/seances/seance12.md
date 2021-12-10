@@ -5,8 +5,7 @@ date: 2021-12-03
 
 # Séance du 3 décembre
 
-[Bibliographie liée](https://www.zotero.org/groups/4276254/fra3826-a2021/collections/NMMMEKGT/items/P32C95N9/collection/NMMMEKGT)
-
+[Bibliographie liée](https://www.zotero.org/groups/4276254/fra3826-a2021/collections/NMMMEKGT)
 [Prise de note collaborative](https://demo.hedgedoc.org/7uDdH0JGScC2tYyVbEjwXw#)
 
 ## Données massives de soi
